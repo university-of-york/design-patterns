@@ -64,7 +64,7 @@
     "grunt-run": "0.8.1",
     "grunt-ssh": "0.12.9",
     "iframe-resizer": "4.0.4",
-    "jquery": "3.3.1",
+    "jquery": "3.5.0",
     "js-cookie": "2.2.0",
     "load-grunt-config": "1.0.1",
     "modernizr": "3.7.0",
